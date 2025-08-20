@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java, Python, React, etc.**
 
-- 📫 How to reach me **codexgame7@gmail.com**
+- 📫 How to reach me **krishna.prasad.swain2405@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
