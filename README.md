@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna240517&label=Profile%20views&color=0e75b6&style=flat" alt="krishna240517" /> </p>
 
-- 🔭 I’m currently working on **Student File Handler**
+- 🔭 I’m currently working on **Realtime MERN-CHATAPP**
 
 - 🌱 I’m currently learning **NextJs, ScikitLearn**
 
