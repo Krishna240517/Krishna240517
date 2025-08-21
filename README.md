@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)]
+![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 <h1 align="center">Hi 👋, I'm Krishna Prasad Swain</h1>
 <h3 align="center">💻 Passionate about DSA || Web Development || DATA SCIENCE</h3>
 
