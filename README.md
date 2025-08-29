@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Realtime MERN-CHATAPP**
 
-- 🌱 I’m currently learning **NextJs, ScikitLearn**
+- 🌱 I’m currently learning **ReactJs, Pandas**
 
-- 💬 Ask me about **Java, Python, React, etc.**
+- 💬 Ask me about **Java, Python**
 
 - 📫 How to reach me **krishna.prasad.swain2405@gmail.com**
 
