@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AI powered applications**
 
-- 🌱 I’m currently learning **Blockchain, System Design**
+- 🌱 I’m currently learning **Agentic AI, System Design and DevOps**
 
 - 💬 Ask me about **Java, Python**
 
