@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Agentic AI, System Design and DevOps**
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java, JavaScript, Python**
 
 - 📫 How to reach me **krishna.prasad.swain2405@gmail.com**
 
